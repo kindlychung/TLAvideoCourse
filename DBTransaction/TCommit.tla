@@ -1,4 +1,4 @@
----- MODULE DBTransaction ----
+---- MODULE TCommit ----
 
 (***************************************************************************)
 (* This specification is explained in "Transaction Commit", Lecture 5 of   *)
